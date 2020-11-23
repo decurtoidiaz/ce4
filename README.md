@@ -7,7 +7,7 @@ Cycle-consistent Generative Adversarial Networks for Neural Style Transfer using
 
 <a href="https://drive.google.com/file/d/1vIUkCHBi_8LP9RIna1H_RtCO4v25U5_U/view?usp=sharing">Link to data from Chang'E-4</a>
 
-If you use de dataset in a publication, please cite the paper below:
+If you use the dataset in a publication, please cite the paper below:
 
         @article{DeCurtoandDuvall20,
           author = "J. {de Curt\'o} and R. Duvall",
