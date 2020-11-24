@@ -12,7 +12,7 @@ If you use the dataset or the scripts to convert from PDS4 to PNG in a publicati
         @article{DeCurtoandDuvall20,
           author = "J. {de Curt\'o} and R. Duvall",
           title = "Cycle-consistent Generative Adversarial Networks for Neural Style Transfer using data from Chang’E-4",
-          journal = "arXiv:",
+          journal = "arXiv:2011.11627",
           year = "2020",
         }
 
