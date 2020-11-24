@@ -6,7 +6,7 @@
 
 # Script to handle conversion from PDS4 to PNG. RGB. Used to convert images from the terrain camera of the lander.
 # Important: you may need to adapt file extension (here .2C), image size (here 2352x1728) and probably depth (here 8).
-# for the two last parameters (size and depth), refer to the label information (here .2CL).
+# For the two last parameters (size and depth), refer to the label information (here .2CL).
 
 # First rename the files to .RAW extension
 mkdir png

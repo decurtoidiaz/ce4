@@ -6,7 +6,7 @@
 
 # Script to handle conversion from PDS4 to PNG. Grayscale. Used to convert images from the landing camera of the lander.
 # Important: you may need to adapt file extension (here .2A), image size (here 1176x864) and probably depth (here 8).
-# for the two last parameters (size and depth), refer to the label information (here .2AL).
+# For the two last parameters (size and depth), refer to the label information (here .2AL).
 
 # First rename the files to .RAW extension
 mkdir png

@@ -6,7 +6,7 @@
 
 # Script to handle conversion from PDS4 to PNG. Grayscale. Used to convert images from PCAML-Q and PCAMR-Q.
 # Important: you may need to adapt file extension (here .2B), image size (here 1176x864) and probably depth (here 16).
-# for the two last parameters (size and depth), refer to the label information (here .2BL).
+# For the two last parameters (size and depth), refer to the label information (here .2BL).
 
 # First rename the files to .RAW extension
 mkdir png
