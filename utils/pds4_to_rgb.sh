@@ -8,7 +8,6 @@
 # Important: you may need to adapt file extension (here .2C), image size (here 2352x1728) and probably depth (here 8).
 # For the two last parameters (size and depth), refer to the label information (here .2CL).
 
-
 # To run the script, you need imagemagick on your system:
 # sudo apt-get install imagemagick
 

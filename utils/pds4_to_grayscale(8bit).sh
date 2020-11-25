@@ -8,7 +8,6 @@
 # Important: you may need to adapt file extension (here .2A), image size (here 1176x864) and probably depth (here 8).
 # For the two last parameters (size and depth), refer to the label information (here .2AL).
 
-
 # To run the script, you need imagemagick on your system:
 # sudo apt-get install imagemagick
 
