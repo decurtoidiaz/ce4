@@ -16,6 +16,10 @@ If you use the dataset or the scripts to convert from PDS4 to PNG in a publicati
           year = "2020",
         }
 
+To run the scripts, you need imagemagick on your system:
+
+	$ sudo apt-get install imagemagick
+	
 --------------------------------------------------------
 Change Log
 --------------------------------------------------------
