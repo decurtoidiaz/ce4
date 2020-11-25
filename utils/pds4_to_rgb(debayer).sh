@@ -10,6 +10,8 @@
 
 # To run the script, you need imagemagick on your system:
 # sudo apt-get install imagemagick
+# To apply filter Bayer, also need (follow instructions on the repository to install it locally):
+# git clone https://github.com/jdthomas/bayer2rgb
 
 # First rename the files to .RAW extension
 mkdir png
