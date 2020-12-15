@@ -26,5 +26,6 @@ To run the scripts (ce4/utils), you need imagemagick on your system:
 Change Log
 --------------------------------------------------------
 
-Version 1.0, released on 23/11/2020.
+Version 1.0, released on 23/11/2020. Added CE4 data.
+Version 2.0, released on 14/12/2020. Added CE3 data.
 
