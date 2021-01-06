@@ -5,9 +5,11 @@ Cycle-consistent Generative Adversarial Networks for Neural Style Transfer using
 <img src="ce4_01.png" width="800">
 </p>
 
-<a href="https://drive.google.com/file/d/1Suv9GIVHGNREztCkXHF41uUZ1fCc5HkX/view?usp=sharing">Link to data from Chang'E-4</a>
+<a href="https://drive.google.com/file/d/1Suv9GIVHGNREztCkXHF41uUZ1fCc5HkX/view?usp=sharing">Link to data from Chang'E-4.</a>
+<a href="https://drive.google.com/drive/folders/1WkMc-dvoxGjspN5uanQGK5rgk4rjRjr-?usp=sharing"><strong>Preview.</strong></a>
 
-<a href="https://drive.google.com/file/d/1AFI9zE5OA-0i72NcWhSnMpD_0_hRJFd9/view?usp=sharing">Link to data from Chang'E-3</a>
+<a href="https://drive.google.com/file/d/1AFI9zE5OA-0i72NcWhSnMpD_0_hRJFd9/view?usp=sharing">Link to data from Chang'E-3.</a>
+<a href="https://drive.google.com/drive/folders/1lPiYOpe5fRe-kqRL8dq5No9n8suC8xuk?usp=sharing"><strong>Preview.</strong></a>
 
 If you use the dataset or the scripts to convert from PDS4 to PNG in a publication, please cite the paper below:
 
@@ -29,4 +31,6 @@ Change Log
 Version 1.0, released on 23/11/2020. Added CE4 data.
 
 Version 2.0, released on 14/12/2020. Added CE3 data.
+
+Version 2.1, released on 07/01/2021. Added CE4 and CE3 data preview.
 
