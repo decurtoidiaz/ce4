@@ -1,16 +1,18 @@
 # ce4
 Cycle-consistent Generative Adversarial Networks for Neural Style Transfer using data from Chang’E-4
 
-<a href="https://ieee-dataport.org/open-access/cycle-consistent-generative-adversarial-networks-neural-style-transfer-using-data-ce-4">IEEE DataPort. Link to data from CE4 and CE3.</a>
+<a href="https://ieee-dataport.org/open-access/cycle-consistent-generative-adversarial-networks-neural-style-transfer-using-data-ce-4">IEEE DataPort.</a>
 
 <p align="center">
 <img src="ce4_01.png" width="800">
 </p>
 
 <a href="https://drive.google.com/file/d/1Suv9GIVHGNREztCkXHF41uUZ1fCc5HkX/view?usp=sharing">Link to data from Chang'E-4.</a>
+<a href="https://netorgft7929393-my.sharepoint.com/:u:/g/personal/c_decurto_be/EYr8tiiYPxhBsYdbh9-KWgsBBveyWeDjxcqRmpWXhlbbPQ?e=pkHTKA">Alternate.</a>
 <a href="https://drive.google.com/drive/folders/1WkMc-dvoxGjspN5uanQGK5rgk4rjRjr-?usp=sharing"><strong>Preview.</strong></a>
 
 <a href="https://drive.google.com/file/d/1AFI9zE5OA-0i72NcWhSnMpD_0_hRJFd9/view?usp=sharing">Link to data from Chang'E-3.</a>
+<a href="https://netorgft7929393-my.sharepoint.com/:u:/g/personal/c_decurto_be/EbkyDljYMG1BhVcMmAyoCAIBTBoqUUX2Jk2YTvRzjrGmRg?e=6ZsevQ">Alternate.</a>
 <a href="https://drive.google.com/drive/folders/1lPiYOpe5fRe-kqRL8dq5No9n8suC8xuk?usp=sharing"><strong>Preview.</strong></a>
 
 If you use the dataset or the scripts to convert from PDS4 to PNG in a publication, please cite the paper below:
